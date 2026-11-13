@@ -51,3 +51,4 @@
 
 #4節 OpenAIのAPI：ダミー設定を追加して、教材のコードをそのまま動かす
 #5節以降 Geminiを使う（Google AI StudioでAPIキーを作成）
+#LangChainのモジュール
