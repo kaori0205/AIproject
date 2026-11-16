@@ -53,3 +53,4 @@
 #5節以降 Geminiを使う（Google AI StudioでAPIキーを作成）
 #LangChainのモジュール　installの行がエラーになったため再起動→それ以外のセルを実行
 #print(docs[1].page_content)
+#11節完了
